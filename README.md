@@ -24,6 +24,6 @@ Publier le contenu du dossier `dist` sur un hébergement statique qui sert les f
 - `dist/styles.css` : apparence commune et adaptation mobile.
 - `dist/assets/` : logo Somnolia et police Manrope locale (licence incluse).
 
-La politique de confidentialité de l’application et les coordonnées sont reprises du contenu existant dans `SettingsView.swift` à la date du 30 septembre 2026 ; une section distincte décrit le site. Cette reprise ne constitue pas un audit juridique. Avant publication, vérifier que ce texte correspond toujours aux pratiques effectives et compléter, si nécessaire, les informations propres à l’hébergeur choisi.
+La politique de confidentialité de l’application et les coordonnées sont reprises du contenu existant dans `SettingsView.swift` à la date du 11 octobre 2026 ; une section distincte décrit le site. Cette reprise ne constitue pas un audit juridique. Avant publication, vérifier que ce texte correspond toujours aux pratiques effectives et compléter, si nécessaire, les informations propres à l’hébergeur choisi.
 
 Les assets ont été copiés. Aucun fichier du projet SleepTrack n’est nécessaire au fonctionnement du site, et aucun fichier de ce projet n’a été modifié.
